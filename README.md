@@ -1,0 +1,12 @@
+# Local Adventure Planner
+
+Bootstrap project generated on 2025-05-16.
+
+## Quick start
+
+```bash
+npm install
+npm run dev
+```
+
+Then open http://localhost:3000 in your browser.
