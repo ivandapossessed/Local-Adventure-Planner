@@ -1,6 +1,7 @@
 # Local Adventure Planner
 
-Bootstrap project started on 2025-05-16.
+Bootstrap project started on 2025-05-16. Mice
+
 
 ## Quick start
 
