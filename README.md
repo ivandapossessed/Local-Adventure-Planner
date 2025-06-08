@@ -1,6 +1,6 @@
 # Local Adventure Planner
 
-Bootstrap project started on 2025-05-16. Edited during
+Bootstrap project started on 2025-05-16. Edited during past 2 weeks
 
 
 ## Quick start
